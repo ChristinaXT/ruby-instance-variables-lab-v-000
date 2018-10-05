@@ -7,7 +7,6 @@ class Dog
 	  def name
 	    @this_dogs_name
 	  end
-	  name 
 	end
 	
 lassie = Dog.new
